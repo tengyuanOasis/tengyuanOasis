@@ -9,7 +9,7 @@
 - I'm a front-end development engineer.
 - Tech Stack
 
-  - [x] javaScript / typescript
+  - [x] javascript / typescript
   - [x] vuejs2 / vuejs3 / react
   - [x] nodejs / nginx
 
