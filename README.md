@@ -12,8 +12,7 @@
  
 - Learning
   - [ ] Vite 50%
-  - [ ] rollup
-  - [ ] 
+  - [ ] Rollup
 
 
 
