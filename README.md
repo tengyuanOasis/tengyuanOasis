@@ -4,8 +4,6 @@
 
 ### 🏂About me
 
----
-
 - I'm a front-end development engineer.
 - Tech Stack
   - [x] javascript / typescript
@@ -18,13 +16,9 @@
 
 ### 🥊 Streak Stats
 
----
-
 <div><img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=tengyuanOasis" alt="GitHub Streak" /></div>
 
 ### 🏎️ Statistics
-
----
 
 <div>
    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=tengyuanOasis" />
@@ -32,5 +26,5 @@
 </div>
 
 ### 🧘 Activity Graph
----
+
 <div><img height="400px"width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tengyuanOasis&bg_color=ffffff&color=96228e&line=f40be4&point=403d3d&area=true&hide_border=true" alt="GitHub Streak" /></div>
