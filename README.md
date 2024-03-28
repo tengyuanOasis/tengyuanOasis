@@ -8,13 +8,10 @@
 
 - I'm a front-end development engineer.
 - Tech Stack
-
   - [x] javascript / typescript
   - [x] vuejs2 / vuejs3 / react
   - [x] nodejs / nginx
-
-- Learning plan
-
+- Learning Plan
   - [ ] express
   - [ ] koa
   - [ ] golang
