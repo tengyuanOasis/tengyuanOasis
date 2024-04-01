@@ -4,12 +4,10 @@
 
 ### 🏂About me
 
-- I'm a front-end development engineer.
+- I'm tengyuan
 - Tech Stack
-  - [x] javascript / typescript
-  - [x] vuejs2 / vuejs3 / react
-  - [x] nodejs / nginx
-- Learning Plan
+  - [x] javascript / typescript /vuejs2 / vuejs3 / react / nodejs / nginx
+- Learning
   - [ ] express
   - [ ] koa
   - [ ] golang
