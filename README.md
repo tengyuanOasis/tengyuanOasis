@@ -27,4 +27,5 @@
 
 <div><img height="400px"width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tengyuanOasis&bg_color=ffffff&color=96228e&line=f40be4&point=403d3d&area=true&hide_border=true" alt="GitHub Streak" /></div>
 
-![snake animation](https://raw.githubusercontent.com/tengyuanOasis/snk/refs/heads/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/tengyuanOasis/snk/refs/heads/output/github-contribution-grid-snake-dark.svg)
+
